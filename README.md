@@ -51,63 +51,52 @@ The main goal of FinTrack is to:
 - **Static Analysis (Lint)**: Ensures code quality and style checks pass.
 - **APK Artifact Storage**: Auto-upload generated `.apk` on successful build.
 
-✅ Features
-. *User Authentication*
+## ✅ Features
+. User Authentication
 - Secure username/password login stored locally.
 
-. *Expense Tracking*
+. Expense Tracking
 -Add expense with photo, date, category, and time.
 -Custom Categories
 -Create, edit, and remove your own categories.
 
-. *Budget Goals*
+. Budget Goals
 -Define min/max monthly budgets and track goal status.
 
-. *Bank Card Management (Custom Feature)*
+.Bank Card Management (Custom Feature)
 Add and manage personal bank cards securely.
 
-. *Statistics View*
+. Statistics View
 -Interactive pie charts for expense categories.
 -Line/bar graphs showing monthly trends.
 -Budget performance progress bar (e.g., "Over Budget: 91%").
 
-. *Gamification*
+. Gamification
 -Earn XP, unlock badges, level up for achieving goals.
 -Smart Budgeting (AI-Driven)
 -Personalized suggestions based on spending behavior.
 
-##📷 Screenshots
 
-
-screenshots/pie_chart.png – Category Breakdown Chart
-
-screenshots/monthly_trend.png – Monthly Spending Graph
-
-screenshots/budget_progress.png – Budget Progress Indicator
-
-screenshots/bank_card_feature.png – Bank Card UI
-
-
-##full feature walkthrough.
+## full feature walkthrough.
 
 --Real use-case demonstration.
 --Voice-over explanation by the group.
 
-▶️ How to Run This App Using Android Studio
+## ▶️ How to Run This App Using Android Studio
 To run FinTrack locally using Android Studio, follow these steps:
 
-📥 Clone the Repository
+## 📥 Clone the Repository
 
 git clone https://github.com/glodymavula/Fintrack-BudgetApp.git
 Or download the ZIP from GitHub and extract it.
 
-##📂 Open the Project
+## 📂 Open the Project
 
 Launch Android Studio.
 
 Click “Open”, then select the FinTrackApp folder and confirm.
 
-⚙️ Sync Gradle
+## ⚙️ Sync Gradle
 
 Wait for Android Studio to sync Gradle files.
 
@@ -115,50 +104,50 @@ If prompted, click “Sync Now”.
 
 Resolve any missing dependencies or SDKs.
 
-##📱 Run on Emulator or Physical Device
+## 📱 Run on Emulator or Physical Device
 
 Use AVD Manager to launch an emulator, or
 
 Connect your Android phone with USB Debugging enabled.
 
-##▶️ Run the App
+## ▶️ Run the App
 
 Press the green Run button or use Shift + F10.
 
 Choose the connected device or emulator.
 
-##✅ Done!
+## ✅ Done!
 
 The app will build and launch on your device.
 
 
-📦 How to Build and Download the APK in Android Studio
+## 📦 How to Build and Download the APK in Android Studio
 If you'd like to generate the .apk file yourself using Android Studio, follow these steps:
 
-📂 Open the Project in Android Studio
+- Open the Project in Android Studio
 
-Launch Android Studio.
+- Launch Android Studio.
 
-Click “Open” and select the FinTrackApp folder.
+- Click “Open” and select the FinTrackApp folder.
 
-⚙️ Let Gradle Sync
+## ⚙️ Let Gradle Sync
 
 Wait for Android Studio to sync all files and dependencies.
 
-##🧱 Build the APK
+## 🧱 Build the APK
 
 In the top menu, go to:
-Build > Build Bundle(s) / APK(s) > Build APK(s)
+- Build > Build Bundle(s) / APK(s) > Build APK(s)
 
-Android Studio will start building the .apk file.
+- Android Studio will start building the .apk file.
 
-##📁 Locate the APK File
+## 📁 Locate the APK File
 
 Once the build is complete, a message will appear at the bottom right:
 
-"APK(s) generated successfully."
+- "APK(s) generated successfully."
 
-Click “locate” or manually find it in:
+- Click “locate” or manually find it in:
 
 FinTrackApp/app/build/outputs/apk/debug/app-debug.apk
 📲 Install the APK on Your Android Device
