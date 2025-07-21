@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#000000</color>
+    <color name="colorBackground">#FFFFFF</color>
+    <color name="colorText">#000000</color>
+    <color name="colorTextSecondary">#757575</color>
+    <color name="colorExpense">#FF0000</color>
+    <color name="colorIncome">#4CAF50</color>
+    <color name="colorCard">#000000</color>
+    <color name="colorCardText">#FFFFFF</color>
+    <color name="colorIcon">#000000</color>
+    <color name="colorIconBackground">#F5F5F5</color>
+    <color name="colorButtonText">#FFFFFF</color>
+    <color name="colorButtonBackground">#000000</color>
+    <color name="colorButtonOutline">#FF0000</color>
+    <color name="colorButtonOutlineText">#FF0000</color>
+    
+    <color name="selected_nav_item">#000000</color>
+    <color name="unselected_nav_item">#757575</color>
+</resources>

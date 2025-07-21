@@ -1,0 +1,226 @@
+[
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-merged_res-48:\\layout_activity_signup.xml.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-main-50:\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-merged_res-48:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-main-50:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-merged_res-48:\\layout_activity_statistics.xml.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-main-50:\\layout\\activity_statistics.xml"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-merged_res-48:\\menu_main_menu.xml.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-main-50:\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-merged_res-48:\\layout_activity_notification.xml.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-main-50:\\layout\\activity_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-merged_res-48:\\font_poppins_bold_font.ttf.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-main-50:\\font\\poppins_bold_font.ttf"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-merged_res-48:\\drawable_button_outline_black.xml.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-main-50:\\drawable\\button_outline_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-merged_res-48:\\drawable_ic_wallet.xml.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-main-50:\\drawable\\ic_wallet.xml"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-merged_res-48:\\layout_dialog_view_photo.xml.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-main-50:\\layout\\dialog_view_photo.xml"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-merged_res-48:\\drawable_fintrack_logo.png.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-main-50:\\drawable\\fintrack_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-merged_res-48:\\drawable_other.png.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-main-50:\\drawable\\other.png"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-merged_res-48:\\layout_activity_add_wallet.xml.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-main-50:\\layout\\activity_add_wallet.xml"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-merged_res-48:\\layout_item_notification.xml.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-main-50:\\layout\\item_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-merged_res-48:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-main-50:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-merged_res-48:\\font_poppins_medium.xml.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-main-50:\\font\\poppins_medium.xml"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-merged_res-48:\\drawable_ic_notification.xml.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-main-50:\\drawable\\ic_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-merged_res-48:\\drawable_ic_add_circle.xml.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-main-50:\\drawable\\ic_add_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-merged_res-48:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-main-50:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-merged_res-48:\\drawable_card_background.xml.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-main-50:\\drawable\\card_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-merged_res-48:\\drawable_movies.png.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-main-50:\\drawable\\movies.png"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-merged_res-48:\\drawable_transport.xml.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-main-50:\\drawable\\transport.xml"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-merged_res-48:\\layout_dialog_add_funds.xml.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-main-50:\\layout\\dialog_add_funds.xml"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-merged_res-48:\\layout_activity_add_spending.xml.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-main-50:\\layout\\activity_add_spending.xml"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-merged_res-48:\\font_poppins_regular.xml.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-main-50:\\font\\poppins_regular.xml"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-merged_res-48:\\drawable_edit_text_background.xml.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-main-50:\\drawable\\edit_text_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-merged_res-48:\\drawable_ic_menu.xml.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-main-50:\\drawable\\ic_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-merged_res-48:\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-main-50:\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-merged_res-48:\\layout_dialog_set_budget.xml.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-main-50:\\layout\\dialog_set_budget.xml"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-merged_res-48:\\drawable_ic_entertainment.xml.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-main-50:\\drawable\\ic_entertainment.xml"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-merged_res-48:\\drawable_entertainment.png.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-main-50:\\drawable\\entertainment.png"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-merged_res-48:\\drawable_ic_food.xml.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-main-50:\\drawable\\ic_food.xml"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-merged_res-48:\\drawable_button_white_background.xml.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-main-50:\\drawable\\button_white_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-merged_res-48:\\drawable_ic_stats.xml.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-main-50:\\drawable\\ic_stats.xml"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-merged_res-48:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-main-50:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-merged_res-48:\\drawable_mastercard_logo.png.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-main-50:\\drawable\\mastercard_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-merged_res-48:\\layout_item_transaction.xml.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-main-50:\\layout\\item_transaction.xml"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-merged_res-48:\\drawable_utilities.png.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-main-50:\\drawable\\utilities.png"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-merged_res-48:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-main-50:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-merged_res-48:\\drawable_ic_category.xml.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-main-50:\\drawable\\ic_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-merged_res-48:\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-main-50:\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "com.example.fintrack.app-merged_res-48:/layout_activity_statistics.xml.flat",
+        "source": "com.example.fintrack.app-main-50:/layout/activity_statistics.xml"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-merged_res-48:\\font_poppins_bold.xml.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-main-50:\\font\\poppins_bold.xml"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-merged_res-48:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-main-50:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-merged_res-48:\\drawable_button_outline_background.xml.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-main-50:\\drawable\\button_outline_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-merged_res-48:\\layout_dialog_set_budget_goals.xml.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-main-50:\\layout\\dialog_set_budget_goals.xml"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-merged_res-48:\\drawable_food.png.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-main-50:\\drawable\\food.png"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-merged_res-48:\\drawable_ic_camera.xml.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-main-50:\\drawable\\ic_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-merged_res-48:\\drawable_button_background.xml.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-main-50:\\drawable\\button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-merged_res-48:\\drawable_savings.png.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-main-50:\\drawable\\savings.png"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-merged_res-48:\\layout_activity_edit_wallet.xml.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-main-50:\\layout\\activity_edit_wallet.xml"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-merged_res-48:\\font_poppins_medium_font.ttf.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-main-50:\\font\\poppins_medium_font.ttf"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-merged_res-48:\\drawable_groceries.png.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-main-50:\\drawable\\groceries.png"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-merged_res-48:\\color_bottom_nav_color.xml.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-main-50:\\color\\bottom_nav_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-merged_res-48:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-main-50:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-merged_res-48:\\layout_activity_expense_report.xml.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-main-50:\\layout\\activity_expense_report.xml"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-merged_res-48:\\font_poppins_regular_font.ttf.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.5\\com.example.fintrack.app-main-50:\\font\\poppins_regular_font.ttf"
+    }
+]

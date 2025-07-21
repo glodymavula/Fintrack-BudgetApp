@@ -1,0 +1,6 @@
+com.example.fintrack.test.app-annotation-experimental-1.3.0-0 C:\Users\RC_Student_lab\.gradle\caches\transforms-3\50a0391bc707b61a1ecc2b9621279361\transformed\annotation-experimental-1.3.0\res
+com.example.fintrack.test.app-core-1.5.0-1 C:\Users\RC_Student_lab\.gradle\caches\transforms-3\5ed6f86a4b02d37535d810e5de888006\transformed\core-1.5.0\res
+com.example.fintrack.test.app-androidTest-2 C:\Users\RC_Student_lab\Desktop\fin\app\build\generated\res\resValues\androidTest\debug
+com.example.fintrack.test.app-mergeDebugAndroidTestResources-3 C:\Users\RC_Student_lab\Desktop\fin\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.fintrack.test.app-mergeDebugAndroidTestResources-4 C:\Users\RC_Student_lab\Desktop\fin\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.fintrack.test.app-merged_res-5 C:\Users\RC_Student_lab\Desktop\fin\app\build\intermediates\merged_res\debugAndroidTest
