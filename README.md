@@ -79,9 +79,6 @@ Add and manage personal bank cards securely.
 
 ## full feature walkthrough.
 
---Real use-case demonstration.
---Voice-over explanation by the group.
-
 ## ▶️ How to Run This App Using Android Studio
 To run FinTrack locally using Android Studio, follow these steps:
 
